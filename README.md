@@ -12,15 +12,7 @@ Features
 
 - Predicts scores
 - Also tries to predict other statistics
-- Borgar
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- _Borgar_
 
 [Repo](https://github.com/JirroReo/PBA-Ending-Predictor)
 ```
