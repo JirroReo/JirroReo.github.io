@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Jirro Reo
 
-You can use the [editor on GitHub](https://github.com/JirroReo/JirroReo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a programmer student looking to expand my horizons, shoot me a mail and maybe we can work something out.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My repos:
 
-### Markdown
+### PBA Ending game AI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Uses machine learning to predict the final digits of the scores of a PBA game using pattern recognition and linear regression.
 ```markdown
-Syntax highlighted code block
+Features
 
-# Header 1
-## Header 2
-### Header 3
+- Predicts scores
+- Also tries to predict other statistics
+- Borgar
 
 - Bulleted
 - List
@@ -23,14 +22,77 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Repo](https://github.com/JirroReo/PBA-Ending-Predictor)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Dolly Zoom Application
 
-### Jekyll Themes
+Does a dolly zoom whenever it detects a face with a camera, zooming in on the face but zooming out on the background.
+```markdown
+Features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JirroReo/JirroReo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Very zoom
+- Much dolly
+- Super wow
+
+[Repo](https://github.com/JirroReo/dolly-zoom)
+```
+
+### Object Recognition Using Python
+
+Real-time object recognition using Python, Keras. I got the idea from a drama called Start-up.
+```markdown
+Features
+
+- Real-time object detection
+- Displays an integrity score 
+- Comes with a pre-trained model
+
+Made by a wannabe Nam Do San.
+
+[Repo](https://github.com/JirroReo/ObjectRecog)
+```
+
+### Gender and Age Guesser using Python
+
+Tries to predict ages using facial details and pattern recognition.
+```markdown
+Features
+
+- Predicts your age 
+- Also detects your gender 
+- That's kinda it lmao
+
+[Repo](https://github.com/JirroReo/GenderAgeRecog)
+```
+
+### A simple login and registration form
+
+A very simple JavaFX application with a log in and register form, and validates it.
+```markdown
+Features
+
+- Log-in and Register form
+- Comes with its own database
+- Clean and simple UI
+
+Only did this project to try out JavaFX.
+
+[Repo](https://github.com/JirroReo/SimpleLoginandRegistration)
+```
+
+### My very first GUI application 
+
+My first project with an actual GUI that's not done in the CLI. A money breakdown denominator using a very basic greedy algorithm.
+```markdown
+Features
+
+- Has a UI
+- Yey
+- Very cool
+
+[Repo](https://github.com/JirroReo/SimpleMoneyDeno)
+```
 
 ### Support or Contact
 
