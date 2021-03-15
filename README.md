@@ -1,6 +1,6 @@
 ## Jirro Reo
 
-I'm a programmer student looking to expand my horizons, shoot me a mail and maybe we can work something out. All repositories here are free to download in hopes that I help fellow struggling students.
+I'm a programmer student looking to expand my horizons, shoot me a mail and maybe we can work something out. All repositories here are free to download in hopes that I help fellow students.
 
 My repos:
 
